@@ -1,7 +1,7 @@
 import requests
 
 def get_variety_wise_data_all_states(api_key, limit=10, offset=0, output_format="json"):
-    url = "https://api.data.gov.in/resource/35985678-0d79-46b4-9ed6-6f13308a1d24"
+    url = "https://api.data.gov.in/resource/"
     
     params = {
         'api-key': api_key,
