@@ -44,7 +44,7 @@ def get_variety_wise_data_all_states(api_key, limit=10, offset=0, output_format=
     return all_data
 
 # Example usage
-api_key = ""#add your own api key to test here
+api_key = #add your own api key to test here
 limit = 10
 
 all_state_data = get_variety_wise_data_all_states(api_key, limit=limit)
