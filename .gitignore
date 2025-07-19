@@ -1,6 +1,19 @@
+# Virtual environment
 venv/
+
+# Python cache and compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Logs
 *.log
+
+# Environment variables (API keys, secrets)
+.env
+
+# Streamlit cache
+.streamlit/
+
+
