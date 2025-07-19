@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your actual API key
-api_key = ''
+api_key = 
 
 # API endpoint URL for fetching the commodity price data
 api_url = 'https://api.data.gov.in/resource/'
